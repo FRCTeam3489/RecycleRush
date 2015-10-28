@@ -1,0 +1,14 @@
+*.class
+
+#Package files
+*.jar
+*.war
+*.ear
+*.zip
+
+#ignore everything under the 'bin' folder
+bin/
+
+#ignore everything under the '.metadata' folder
+.metadata/
+../.metadata/

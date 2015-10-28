@@ -1,0 +1,193 @@
+[33mcommit 23dcd5c22662efa982dbd4d86ac8a949b05983ad[m
+Author: waifu <waifu@team3489.local>
+Date:   Sat Feb 7 10:25:46 2015 -0500
+
+    Updating git to ignore all metadata
+
+[33mcommit 1114019e41adaf790946436bbded1ae77203fd8d[m
+Author: The Dude <thedude@thedude.com>
+Date:   Fri Feb 6 18:32:47 2015 -0500
+
+    Updated mastercode DrProf 02/06/2015 6:32
+
+[33mcommit 325de20b2958a8a0e44b91d1f11b9a6f4dd35110[m
+Merge: dc13be3 6a2cf76
+Author: The Dude <thedude@thedude.com>
+Date:   Fri Feb 6 18:13:55 2015 -0500
+
+    just knocking resolving conflicting mickingstojse
+
+[33mcommit dc13be3c5f32c0d95f71b94c5f989637df082076[m
+Author: The Dude <thedude@thedude.com>
+Date:   Fri Feb 6 18:11:44 2015 -0500
+
+    me again
+
+[33mcommit 9856706b07b8414b5231515e4077f835384278c8[m
+Author: The Dude <thedude@thedude.com>
+Date:   Fri Feb 6 18:10:34 2015 -0500
+
+    02062015 sam
+
+[33mcommit 6a2cf7698ad52c5cd850147090fe6372d5d0977d[m
+Author: waifu <waifu@team3489.local>
+Date:   Fri Feb 6 17:50:16 2015 -0500
+
+    Adds files created by waifu on Feb5
+
+[33mcommit 2cc4e0ecfbf7c29ca57ce67cd5d1578bcbd20613[m
+Merge: f20165c 106f3cc
+Author: The Dude <thedude@thedude.com>
+Date:   Fri Feb 6 17:40:41 2015 -0500
+
+    Merges updates to main files and .gitignore
+
+[33mcommit f20165c2829fe875b6577a7968f4a47dd29dd42e[m
+Author: The Dude <thedude@thedude.com>
+Date:   Fri Feb 6 17:30:44 2015 -0500
+
+    Applies updates to .gitignore for .zip files
+
+[33mcommit f2798daf23faa0dcfe65e0fc908adccd3a2e64b9[m
+Author: The Dude <thedude@thedude.com>
+Date:   Fri Feb 6 17:29:07 2015 -0500
+
+    Applies updates made to core files by Sammy
+
+[33mcommit 087d0b858b7e908686ebf4dc77254c363ccfc61b[m
+Author: The Dude <thedude@thedude.com>
+Date:   Fri Feb 6 16:51:47 2015 -0500
+
+    Adds files that Sammy created up to 2015-02-05
+
+[33mcommit 106f3cc115520195aeb3f477b40e2134c5e7c196[m
+Author: Mentor <mentor@team3489.local>
+Date:   Thu Feb 5 18:38:45 2015 -0500
+
+    Adds .gitignore to prevent unneeded files from being tracked and stored
+
+[33mcommit fe0ea92a7fd815b794f3bf51d14f961170dfbb44[m
+Author: Mentor <mentor@team3489.local>
+Date:   Thu Feb 5 18:19:19 2015 -0500
+
+    Removes compiled code (.class files) from repository
+
+[33mcommit cced110a0ed11b9c2ce12ba64f77ea65bf101677[m
+Author: Mentor <mentor@team3489.local>
+Date:   Thu Feb 5 18:17:00 2015 -0500
+
+    Adds additional files from Waifu's work on 2015-02-03
+
+[33mcommit a5d0ca4630ee0118afefc043de75ee66e2504d19[m
+Author: Mentor <mentor@team3489.local>
+Date:   Thu Feb 5 18:06:19 2015 -0500
+
+    Adds files from Maddie's work on 2015-02-03
+
+[33mcommit e743f0735595bb3a95af8d84183deacb7c5b6029[m
+Author: Mentor <mentor@team3489.local>
+Date:   Thu Feb 5 17:46:36 2015 -0500
+
+    Adds files from FRC06 machine.
+
+[33mcommit f1e2b455870860a6e3f671f7d550a7c255f0097d[m
+Author: waifu <waifu@Team3489.local>
+Date:   Sat Jan 31 10:18:28 2015 -0500
+
+    Revert "Merge branch 'master' of http://Team3489u:80/mentor/mrroboto2015"
+    
+    This reverts commit 6510789e34d0fc332561a902c24be54175ab9489, reversing
+    changes made to d74d65414648b89912cd408b2fb2c1417026f348.
+
+[33mcommit 6510789e34d0fc332561a902c24be54175ab9489[m
+Merge: d74d654 9dfe674
+Author: waifu <waifu@Team3489.local>
+Date:   Sat Jan 31 10:00:06 2015 -0500
+
+    Merge branch 'master' of http://Team3489u:80/mentor/mrroboto2015
+    
+    Conflicts:
+    	bin/org/usfirst/frc3489/Hurricane2015/OI.class
+    	src/org/usfirst/frc3489/Hurricane2015/OI.java
+    	src/org/usfirst/frc3489/Hurricane2015/commands/IntakeCommand.java
+    	src/org/usfirst/frc3489/Hurricane2015/subsystems/Intake.java
+
+[33mcommit 9dfe67499e06714274ff3f7c02cc6f81efe1d383[m
+Author: Sneaky Tyreece <SneakyTyreece@team3489.local>
+Date:   Sat Jan 31 09:44:41 2015 -0500
+
+    Jan 31,
+    Resolved Merge Conflicts
+
+[33mcommit cba8e898ec4e708d7b7411cb3d81af6a9759a3c0[m
+Author: The Dude <thedude@thedude.com>
+Date:   Sat Jan 31 09:02:14 2015 -0500
+
+    Adding system to codebase.
+
+[33mcommit 6753a1ea02569393d5ee825085b150223f549344[m
+Author: The Dude <thedude@thedude.com>
+Date:   Sat Jan 31 09:01:29 2015 -0500
+
+    Adding subsystem to codebase.
+
+[33mcommit 2246a04fafe5214057f152a4f5eb0e261e244d36[m
+Author: The Dude <thedude@thedude.com>
+Date:   Sat Jan 31 08:59:44 2015 -0500
+
+    Committing changes.
+
+[33mcommit c2b9ecf837bbe63beab2fce0fb758218a010d7ba[m
+Author: The Dude <thedude@thedude.com>
+Date:   Sat Jan 31 08:59:15 2015 -0500
+
+    Committing changes.
+
+[33mcommit b3d491925d34378dd2b596ad70d70dc351dc4d1b[m
+Author: The Dude <thedude@thedude.com>
+Date:   Sat Jan 31 08:55:51 2015 -0500
+
+    Adding .gitignore to remove binary files from repos.
+
+[33mcommit 3f9cd402efc66aed1d2becfb19e523bf098d40f1[m
+Merge: f6c5bc1 fa2cff1
+Author: The Dude <thedude@thedude.com>
+Date:   Sat Jan 31 08:51:33 2015 -0500
+
+    Merge branch 'master' of http://Team3489u:80/mentor/mrroboto2015
+    
+    Conflicts:
+    	bin/org/usfirst/frc3489/Hurricane2015/RobotMap.class
+    	src/org/usfirst/frc3489/Hurricane2015/Robot.java
+    	src/org/usfirst/frc3489/Hurricane2015/RobotMap.java
+    	src/org/usfirst/frc3489/Hurricane2015/subsystems/Intake.java
+
+[33mcommit d74d65414648b89912cd408b2fb2c1417026f348[m
+Author: SneakyTyreece <SneakyTyreece@Team3489.local>
+Date:   Fri Jan 30 18:46:00 2015 -0500
+
+    Jan 30 Sneaky Tyreece
+
+[33mcommit f6c5bc15c20c599af004d7f5871a058d999c37f9[m
+Author: MrDrProf <MrDrProf@Team3489.local>
+Date:   Fri Jan 30 18:42:19 2015 -0500
+
+    Jan30 MrDrProf
+
+[33mcommit fa2cff183a55b7c8b66a661b125cd4119c0d829e[m
+Author: SneakyTyreece <SneakyTyreece@Team3489.local>
+Date:   Thu Jan 29 18:47:25 2015 -0500
+
+    Jan29 SneakyTyreece
+
+[33mcommit 9d952263c8b35fd3c37ef44e537f803f20e700e6[m
+Author: MrDrProf <MrDrProf@Team3489.local>
+Date:   Thu Jan 29 18:47:03 2015 -0500
+
+    Jan29 MrDrProf
+
+[33mcommit 0ebdbf645420ff30e56d4612cdf30f5a4790abf6[m
+Author: DrProf <DrProf@team3489.local>
+Date:   Thu Jan 29 18:01:34 2015 -0500
+
+    Initial commit
